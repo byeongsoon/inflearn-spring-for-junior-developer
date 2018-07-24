@@ -1,0 +1,41 @@
+= 인프런
+
+:icons: font
+:Author: Byeongsoon Jang
+:Email: byeongsoon@wisoft.io
+:Date: 2018.07.24
+:Revision: 1.0
+:imagesdir: ./image
+
+인프런 '신입 프로그래머를 위한 자바 스프링(Spring) 프레임워크 강좌'의 학습 저장소
+
+Byeongsoon Jang<byeongsoon@wisoft.io>
+
+|===
+|===
+
+== 작성규칙
+
+** '신입 프로그래머를 위한 자바 스프링(Spring) 프레임워크 강좌'의 코드를 작성한다.
+** 추가적으로 설명이 필요한 부분이나 중요한 내용은
+link:https://github.com/ByeongSoon/TIL/tree/master/Spring[여기]
+에 작성한다.
+** 코드는 직접 작성해야만 기억에 남는다는 생각으로 작성한다.
+** 빨리 끝내는게 중요한게 아니라 완벽히 내 것으로 만드는게 중요하다.
+
+|===
+|===
+
+== 목표
+
+** 스프링 프레임워크에 대한 전반적인 이해를 위해 학습한다.
+** 이 강좌를 수강한다해도 완벽히 스프링 프레임워크를 아는 것이 아니므로 자만하지 않는다.
+
+== 학습 내용
+
+** 스프링 배우기
+** 스프링 MVC 게시판 실습
+** 스프링 JDBC
+** 트랜잭션
+** 보안
+** Mybatis
